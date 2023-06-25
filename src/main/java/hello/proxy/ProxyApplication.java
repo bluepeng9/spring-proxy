@@ -1,6 +1,6 @@
 package hello.proxy;
 
-import hello.proxy.app.config.v4_postprocessor.BeanPostProcessorConfig;
+import hello.proxy.config.v4_postprocessor.BeanPostProcessorConfig;
 import hello.proxy.trace.logtrace.LogTrace;
 import hello.proxy.trace.logtrace.ThreadLocalLogTrace;
 import org.springframework.boot.SpringApplication;
